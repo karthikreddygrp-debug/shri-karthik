@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shri Karthik</string>
+    <string name="business_name">SHRI KARTHIK ENTERPRISE</string>
+    <string name="business_subtitle">Your One-Stop Destination for Electronics, Dairy &amp; Daily Essentials</string>
+    <string name="business_tagline">Electronics, Dairy &amp; Daily Essentials</string>
+    <string name="business_supporting_text">Discover quality products for your home and everyday needs, all in one convenient place.</string>
+    <string name="business_address">13-2, RC Rd, Avilala, Vedantha Puram, Andhra Pradesh 517508</string>
+    <string name="business_plus_code">HCX6+P9 Vedantha Puram, Andhra Pradesh</string>
+    <string name="business_phone">+91 84479 59727</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_products">Products</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_contact">Contact</string>
+</resources>
